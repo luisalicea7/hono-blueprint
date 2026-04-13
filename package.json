@@ -33,7 +33,7 @@
     "drizzle-kit": "^0.31.10",
     "prettier": "^3.8.2",
     "tsx": "^4.7.1",
-    "typescript": "^5.8.3",
+    "typescript": "^6.0.0",
     "vitest": "^4.1.4"
   }
 }
